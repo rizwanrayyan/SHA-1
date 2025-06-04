@@ -1,4 +1,4 @@
-# Name:Dhinesh P
+# Name:Rizwan T
 # Register No.:212222040134
 # SHA-1
 # Aim: To implement the SHA-I hashing technique using C program. 
